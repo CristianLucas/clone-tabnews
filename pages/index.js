@@ -1,6 +1,6 @@
 function Home() {
             
-    return <h1>Testando alteração do texto te amo Giovanninha , ahahahah</h1>
+    return <h1>Bom dia meu amor! Te amo muito, hoje e para todo sempre ❤️💕😘 </h1>
 
 }
 
